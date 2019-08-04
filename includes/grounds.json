@@ -1,0 +1,39 @@
+{  
+    "category":"grounds",
+    "grounds":[  
+       {  
+          "id":"1",
+          "name":"אפקה- מגרש מרכזי",
+          "groundtype":"football"
+       },
+       {  
+          "id":"2",
+          "name":"מכבי",
+          "groundtype":"football"
+       },
+       {  
+          "id":"3",
+          "name":"חוגים",
+          "groundtype":"football"
+       },
+
+       {  
+          "id":"5",
+          "name":"עירוני א",
+          "groundtype":"football"
+       },
+
+       {  
+         "id":"6",
+         "name":"אליאנס",
+         "groundtype":"basketball"
+      },
+
+      {  
+         "id":"6",
+         "name":"הרצל",
+         "groundtype":"tennis"
+      }
+
+    ]
+ }
